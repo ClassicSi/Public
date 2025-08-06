@@ -4,7 +4,7 @@ https://n10.radio-t.com/online
 #EXTINF:0,ABC lounge
 https://str1.openstream.co/589?aw_0_1st.collectionid=3139&stationId=3139&publisherId=613
 #EXTINF:0,Радио Эрмитаж
-https://hermitage.hostingradio.ru/hermitage128.mp3?5e5a10a
+https://hermitage.hostingradio.ru/hermitage128.mp3
 #EXTINF:0,Classic Jazz
 https://jfm1.hostingradio.ru:14536/ijstream.mp3
 #EXTINF:0,Радио Книга
@@ -12,11 +12,11 @@ http://bookradio.hostingradio.ru:8069/fm
 #EXTINF:0,Rock FM
 https://nashe1.hostingradio.ru/rock-256
 #EXTINF:0,Радио Maximum
-https://maximum.hostingradio.ru/maximum96.aacp?c33a
+https://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:0,Rock
 http://radiorecord.hostingradio.ru/rock96.aacp
 #EXTINF:0,Игромания
-https://hls-01-dfm.hostingradio.ru/igromania/playlist.m3u8?96.aacp
+https://dfm.hostingradio.ru/igromania96.aacp
 #EXTINF:0,Big Hits
 http://radiorecord.hostingradio.ru/bighits96.aacp
 #EXTINF:0,Медляк FM
@@ -32,9 +32,9 @@ http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3
 #EXTINF:0,Record
 http://radiorecord.hostingradio.ru/rr_main96.aacp
 #EXTINF:0,DFM
-https://dfm.hostingradio.ru/dfm96.aacp?8b85c5d1
+https://dfm.hostingradio.ru/dfm96.aacp
 #EXTINF:0,Эльдорадио
-https://emgspb.hostingradio.ru/eldoradio128.mp3?4bd9d6c5
+https://emgspb.hostingradio.ru/eldoradio128.mp3
 #EXTINF:0,Kronehit
 http://onair-ha1.krone.at/kronehit-ultra-hd.aac
 #EXTINF:0,Heart London
@@ -42,12 +42,12 @@ https://media-the.musicradio.com/HeartLondonMP3
 #EXTINF:0,Gold London
 https://media-the.musicradio.com/GoldMP3
 #EXTINF:0,Дорожное Радио
-https://dorognoe.hostingradio.ru:8000/dorognoe?1ffb3741
+https://dorognoe.hostingradio.ru:8000/dorognoe
 #EXTINF:0,Ретро FM
 http://retroserver.streamr.ru:8043/retro128
 #EXTINF:0,эХо
 https://edifchqufozvbegw.global.ssl.fastly.net/audio_echofm/stream
 #EXTINF:0,Вести FM
-https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps?bb34
+https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 #EXTINF:0,Радио Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
